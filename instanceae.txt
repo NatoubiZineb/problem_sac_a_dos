@@ -1,0 +1,39 @@
+14 1000
+94 485
+506 326
+416 248
+992 421
+649 322
+237 795
+457 43
+815 845
+446 955
+422 252
+791 9
+359 901
+667 122
+598 94
+Method: Brute Force
+Solution: 100100000001
+Value: 2341
+
+Method: Best Improvement LS
+Solution: 100101
+Value: 1528
+
+Method: First Improvement LS
+Solution: 1100000001
+Value: 1692
+
+Method: Full Random
+Solution: 100100000001
+Value: 2341
+
+Method: Homogene SA
+Solution: 1111111111
+Value: 4692
+
+Method: No Homogene SA
+Solution: 111111111
+Value: 4440
+
